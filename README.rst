@@ -13,7 +13,7 @@ Proposed modules
 	- banjax-tint (a transcription interface that's XML-free, relying on clever drag'n'drop <div> elements)
 	- banjax-mint (a metadata input interface, based on a weird, declarative, embeddable XML vocabulary to map input fields to TEI elements)
 	- banjax-some-other-stuff-that-will-become-apparent-at-a-later-date
-	- CHECK OUT <a href="FEATURES.markdown"> for proposed features.
+	- CHECK OUT <a href="FEATURES.markdown">features</a> for proposed features.
 
 Languages
 ---------
