@@ -1,4 +1,5 @@
-# Banjax
+Banjax
+======
 
 ## Crowd-transcription and output interfaces for crazed loons (it's literally the bollox)
 
