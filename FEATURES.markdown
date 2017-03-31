@@ -33,6 +33,7 @@
         - XQueries for database read/write && mapped Python requests
     - Data validation
             - XML Schema updater (validates names etc.)
+    - RevisionDesc Manager and messaging API
 
 ## Back End Functionality
     - Image Upload Handler
