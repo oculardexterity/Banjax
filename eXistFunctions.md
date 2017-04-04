@@ -17,3 +17,8 @@ POST (create new) --
 PATCH (update) --
 /doc/text           -- xupdate object: overwrite text
 /doc/metadata       -- overwrite each metadata field
+
+
+
+
+PythonSide API... ?

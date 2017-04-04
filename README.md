@@ -4,6 +4,12 @@ Banjax
 Crowd-transcription and output interfaces for crazed loons (it's literally the bollox)
 --------------------------------------------------------------------------------------
 
+The Name
+--------
+
+Banjax is a self-referencing, terminating recursive acronym. It stands for:
+###Banjax Anjax Njax Jax Ax X
+
 About
 -----
 Based on our experience cobbling together multiple systems, languages and data formats for the Letters of 1916 project, we thought it would be better to create a nifty, modular, single-data-format system (eXist-DB!!). This is the home page. For now.
