@@ -9,7 +9,7 @@ The Name
 
 Banjax is a self-referencing, terminating recursive acronym. It stands for:
 
-###Banjax Anjax Njax Jax Ax X
+    Banjax Anjax Njax Jax Ax X
 
 About
 -----
